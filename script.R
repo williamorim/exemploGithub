@@ -8,4 +8,4 @@ gitcreds::gitcreds_set()
 # No início de cada projeto
 usethis::create_project()
 usethis::use_git()
-usethis::use_github()
+usethis::use_github(private = TRUE)
